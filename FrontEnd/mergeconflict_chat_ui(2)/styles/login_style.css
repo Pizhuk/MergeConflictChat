@@ -1,0 +1,147 @@
+body{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    margin: 0;
+
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+sup{
+    color:rgb(255, 99, 71);
+}
+
+.login_window{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 600px;
+    width: 350px;
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 40px;
+}
+
+.login_photo{
+    margin-top: 20px;
+}
+
+.login_email{
+    margin-right: 150px;
+}
+
+.btn {
+    border-color: #4B76CF;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 25px;
+    color: #10388B;
+    text-transform: uppercase;
+    padding: 14px 105px;
+    background-color: white;
+    cursor: pointer;
+    transition: background .4s ease-out;
+}
+
+.btn:hover {
+    color: white;
+    background-color: #3860B3;
+}
+
+.login_input{
+    height: 32px;
+    width: 250px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin: 0;
+}
+
+.galochka{
+    margin-top: 5px;
+}
+
+.password_eye{
+    width: 55px;
+}
+
+.login_label{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.password_label {
+    position: relative;
+}
+
+.password_btn {
+    position: absolute;
+    right: -5px;
+    top: -16.5px;
+    cursor: pointer;
+}
+
+.password_btn::after{
+    position: absolute;
+    content: '';
+    top: 27px;
+    right: 13px;
+    width: 30px;
+    height: 1px;
+    background: black;
+    transform: rotate(45deg);
+    transition: .3s all ease;
+    opacity: 1;
+}
+
+.password_btn.active::after{
+    opacity: 0;
+}
+
+.forgot_password{
+    margin: 5px 0 0 145px;
+}
+
+.link_forgot_password{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #4B76CF;
+}
+
+.link_forgot_password:hover{
+    color: #10388B;
+}
+
+.sign_up{
+    margin-top: 20px;
+}
+
+.sign_up_link{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #4B76CF;
+}
+
+.sign_up_link:hover{
+    color: #10388B;
+}
+
+
+
+

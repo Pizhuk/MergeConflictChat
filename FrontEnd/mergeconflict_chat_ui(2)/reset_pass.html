@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles/register_and_reset_style.css">
+  <link rel="stylesheet" href="styles/validation/reset_validation.css">
+  <script src='https://www.google.com/recaptcha/api.js'></script>
+  <title>Reset Password</title>
+</head>
+<body background="image/back.png" width="100%">
+<div class="logo">
+  <img width="90" height="100" src="image/logo.png" alt="">
+</div>
+<div class="registration_window reset">
+  <div class="registration_title">
+    <h1>RESET YOUR PASSWORD</h1>
+  </div>
+  <div class="subtitle">
+    <h5>Enter your email below, and we'll send you a link for resetting you password</h5>
+  </div>
+  <form id="reset_form">
+    <div class="registration_email">
+      <h3>Email<sup>*</sup></h3>
+    </div>
+    <div class="input_warning hide">
+      <div class="warning_text">
+        <p class="validation_email">Incorrect email(example: "email@email.com")</p>
+      </div>
+    </div>
+    <input class="registration_input" id="email_reset" type="text" placeholder="Enter email:" name="email" pattern="^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$">
+    <div class="registration_button">
+      <input type="submit" class="btn" value="SEND EMAIL" id="btn" disabled="disabled">
+    </div>
+  </form>
+  <div class="login reset">
+    <h3>Back to <a class="login_link" href="index.html">LOGIN</a></h3>
+  </div>
+</div>
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="js/get_reset_form.js"></script>
+</body>
+</html>

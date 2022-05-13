@@ -1,0 +1,39 @@
+package com.mergemconflictchat.model.entity;
+
+public class AuthDTO {
+
+    private String login;
+    private String password;
+
+    public AuthDTO() { }
+
+    public AuthDTO(String login, String password) {
+        this.login = login;
+        this.password = password;
+    }
+
+    public String getLogin() {
+        return login;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setLogin(String login) {
+        this.login = login;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
+    @Override
+    public String toString() {
+        return "LoginDTO{" +
+                "login='" + login + '\'' +
+                ", password='" + password + '\'' +
+                '}';
+    }
+
+}

@@ -1,0 +1,122 @@
+2022-02-21 14:07:58 ERROR PostgresqlDBService:31 - 
+2022-02-21 14:10:00 ERROR PostgresqlDBService:31 - 
+2022-02-21 20:40:09 ERROR PostgresqlDBService:31 - 
+2022-02-21 20:40:09 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:40:09 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:40:09 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:40:09 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:53:43 ERROR PostgresqlDBService:31 - 
+2022-02-21 20:53:43 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:53:43 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:53:43 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:53:43 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:54:04 ERROR PostgresqlDBService:31 - 
+2022-02-21 20:54:04 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:54:04 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:54:04 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:54:04 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:54:29 ERROR PostgresqlDBService:31 - 
+2022-02-21 20:54:29 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:54:29 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:54:29 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:54:29 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:54:53 ERROR PostgresqlDBService:31 - 
+2022-02-21 20:54:53 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:54:53 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:54:53 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-21 20:54:53 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:36:40 ERROR PostgresqlDBService:31 - 
+2022-02-22 09:36:40 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:36:40 ERROR PostgresqlDBService:126 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:36:40 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:36:40 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:36:40 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:36:40 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:52:52 ERROR PostgresqlDBService:31 - 
+2022-02-22 09:52:52 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:52:52 ERROR PostgresqlDBService:175 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:52:52 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:52:52 ERROR PostgresqlDBService:175 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:52:52 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:52:52 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:52:52 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:52:52 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR PostgresqlDBService:31 - 
+2022-02-22 09:57:38 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR PostgresqlDBService:175 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR PostgresqlDBService:175 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:57:38 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR PostgresqlDBService:31 - 
+2022-02-22 09:59:01 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR PostgresqlDBService:175 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR PostgresqlDBService:175 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 09:59:01 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR PostgresqlDBService:31 - 
+2022-02-22 10:06:40 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR PostgresqlDBService:175 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR PostgresqlDBService:175 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 10:06:40 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:38:15 ERROR PostgresqlDBService:31 - 
+2022-02-22 19:38:17 ERROR PostgresqlDBService:31 - 
+2022-02-22 19:44:53 ERROR PostgresqlDBService:31 - 
+2022-02-22 19:44:53 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:53 ERROR PostgresqlDBService:175 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:53 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:53 ERROR PostgresqlDBService:175 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:54 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:54 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:54 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:54 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:54 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:54 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:54 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:54 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:54 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:54 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:54 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 19:44:54 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 21:04:51 ERROR PostgresqlDBService:31 - 
+2022-02-22 21:04:52 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 21:04:52 ERROR PostgresqlDBService:175 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 21:04:52 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 21:04:52 ERROR PostgresqlDBService:175 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 21:04:52 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 21:04:52 ERROR PostgresqlDBService:150 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 21:04:52 ERROR ConnectionProvider:22 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+2022-02-22 21:04:52 ERROR PostgresqlDBService:199 - No suitable driver found for jdbc:postgresql://localhost:5432/postgres

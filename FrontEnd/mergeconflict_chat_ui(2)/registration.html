@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/register_and_reset_style.css">
+    <link rel="stylesheet" href="styles/validation/register_validation.css">
+    <title>Registration</title>
+</head>
+<body background="image/back.png" width="100%">
+<div class="logo">
+    <img width="90" height="100" src="image/logo.png" alt="">
+</div>
+<div class="registration_window">
+    <div class="registration_title">
+        <h1>SIGN UP</h1>
+    </div>
+    <form id="registration_form">
+        <div class="registration_email">
+            <h3>Login<sup>*</sup></h3>
+        </div>
+        <div class="input_warning login hide">
+            <div class="warning_text">
+                <p class="validation_login">Incorrect login(you can use uppercase and lowercase letters, numbers, "-" and "_"(at least 6 characters))</p>
+            </div>
+        </div>
+        <input class="registration_input login" type="text" id="login" placeholder="Enter login:" name="login" pattern="[a-zA-Z0-9_-]{6,30}">
+        <div class="registration_email">
+            <h3>Password<sup>*</sup></h3>
+        </div>
+        <div class="input_warning password hide">
+            <div class="warning_text">
+                <p class="validation_login">Incorrect password(your password must have at least one uppercase, one lowercase and one special symbols(!@#$%^&*))</p>
+            </div>
+        </div>
+        <label class="label password_label">
+            <input class="registration_input password_input" placeholder="Enter password:" type="password" id="password" name="password" pattern="^.*(?=.{6,})(?=.*[A-Z])(?=.*[a-z])(?=.*[!@#$%^&*? ]).*$">
+            <div class="password_btn"><img class="password_eye" src="image/eye.svg" alt="img"></div>
+        </label>
+        <div class="registration_email">
+            <h3>Confirm Password<sup>*</sup></h3>
+        </div>
+        <label class="label password_label">
+            <input class="registration_input password_input2" placeholder="Enter password:" type="password" id="extra_password" name="confirm_password">
+            <div class="password_btn2"><img class="password_eye" src="image/eye.svg" alt="img"></div>
+        </label>
+        <div class="registration_email">
+            <h3>Email<sup>*</sup></h3>
+        </div>
+        <div class="input_warning email hide">
+            <div class="warning_text">
+                <p class="validation_login">Incorrect email(example: "email@email.com")</p>
+            </div>
+        </div>
+        <input class="registration_input email" type="text" id="email" placeholder="Enter email:" name="email" pattern="^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$">
+        <div class="registration_email">
+            <h3>Phone Number<sup>*</sup></h3>
+        </div>
+        <div class="input_warning phone hide">
+            <div class="warning_text">
+                <p class="validation_login">Incorrect phone(example: +380990001122 or 380990001122) at least 6 characters</p>
+            </div>
+        </div>
+        <input class="registration_input phone" type="text" id="phone" placeholder="Enter phone:" name="phone_num" pattern="^(([+]?([0-9]){6,15}))">
+        <div class="registration_email">
+            <h3>Company</h3>
+        </div>
+        <div class="input_warning company hide">
+            <div class="warning_text">
+                <p class="validation_login">Incorrect company(maximum - 100 characters, and you can use letters, numbers, symbol "'" and space)</p>
+            </div>
+        </div>
+        <input class="registration_input company" type="text" id="company" placeholder="Enter company:" name="company" pattern="[\w\s']{0,100}">
+        <div class="registration_button">
+            <input type="submit" class="btn" id="btn" disabled="disabled" value="SIGN UP">
+        </div>
+    </form>
+    <div class="login">
+        <h3>Already a user?? <a class="login_link" href="index.html">LOGIN</a></h3>
+    </div>
+</div>
+<div id="my_modal" class="modal">
+    <div class="modal_content">
+        <span class="close_modal_window">×</span>
+        <p>Your passwords are different in fields "Password" and "Confirm Password"! Please, check it!</p>
+    </div>
+</div>
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="js/show_eye_registration.js"></script>
+<script src="js/get_register_form.js"></script>
+
+</body>
+</html>
